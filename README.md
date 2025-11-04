@@ -119,4 +119,4 @@ server_socket.close()
 <img width="900" height="282" alt="Screenshot 2025-11-03 153527" src="https://github.com/user-attachments/assets/1aa8d173-e2f3-47d1-8c51-36e711d325e8" />
 
 ## Result:
-Thus the study of Socket Programming Completed Successfully
+Thus the study of Socket Programming Completed Successfully.
